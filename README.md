@@ -1,0 +1,2 @@
+## Spam Classifier
+In this project, 5 machine learning models are trained and tested with the spam dataset available in (https://archive.ics.uci.edu/ml/datasets/Spambase). This project is created for the MSA-2020 program
